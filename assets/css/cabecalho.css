@@ -1,0 +1,7 @@
+.menu__item a {
+  color: rgb(56, 56, 56);
+}
+
+.menu__item a:hover {
+  border-bottom: 3px solid rgb(89, 71, 169);
+}
